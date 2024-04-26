@@ -40,3 +40,7 @@
     <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ChessEngine">Click here.</a></li>
   </ul>
 </div>
+
+<div align="left">
+  [![Chandler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandlerKenworthy)](https://github.com/anuraghazra/github-readme-stats)
+</div>
