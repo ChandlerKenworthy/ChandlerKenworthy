@@ -1,39 +1,26 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-  <div id="badges">
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=ChandlerKenworthy&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Chandler's Coding Den :wave:
-  </h1>
+  <h1>Chandler's Portfolio</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/l0Iy1R9uttEN2KCXe/giphy.gif" height="200"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=ChandlerKenworthy&style=flat-square&color=blue" alt=""/>
   ### :man_technologist: About Me
-  I am a PhD student in Particle Physics working on the <a href="https://na62.web.cern.ch">NA62 Experiment</a> at CERN.
+Welcome to my GitHub portfolio! I'm Chandler, a passionate particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.
+
+Driven by a curiosity to understand complex systems and solve intricate problems, I've honed my analytical skills and attention to detail in the pursuit of scientific discovery. My experience at <a href="https://ccfe.ukaea.uk">CCFE</a> and via my PhD at <a href="https://home.cern">CERN</a> has not only deepened my understanding of physics but also exposed me to new technologies and computational methods used in experimental research.
+
+Feel free to explore my projects and reach out — I'm always open to connecting with fellow developers and exploring new opportunities for collaboration and growth.
 </div>
 <div align="left">
   - :telescope: My work uses analyses of compelx big data (incl. machine learning) to search for the ultra-rare decay of a kaon (a type of meson). 
 
-  - :seedling: Planning to move into software engineering, data analysis or machine-learning/AI.
+  - :seedling: Planning to move into software engineering with a focus on machine-learning/AI.
   
   - :zap: In my free time I like to challenge myself and program new tools (or just fun) things!
   
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandler-kenworthy/)
 </div>
 <div align="left">
-  ---
-
   ### :hammer_and_wrench: Languages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
