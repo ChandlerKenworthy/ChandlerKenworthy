@@ -5,19 +5,18 @@
   <img src="https://media.giphy.com/media/l0Iy1R9uttEN2KCXe/giphy.gif" height="200"/>
 
   <div align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/chandler-kenworthy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://komarev.com/ghpvc/?username=ChandlerKenworthy&style=flat-square&color=blue" alt="Profile view count"/>
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    <a href="mailto:chandlerkenworthy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </div>
 </div>
 
 ### :man_technologist: About Me
-Welcome to my GitHub portfolio! I'm Chandler, a passionate particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.
-
-Driven by a curiosity to understand complex systems and solve intricate problems, I've honed my analytical skills and attention to detail in the pursuit of scientific discovery. My experience at <a href="https://ccfe.ukaea.uk">CCFE</a> and via my PhD at <a href="https://home.cern">CERN</a> has not only deepened my understanding of physics but also exposed me to new technologies and computational methods used in experimental research.
+I'm Chandler, a passionate particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.
 
 Feel free to explore my projects and reach out — I'm always open to connecting with fellow developers and exploring new opportunities for collaboration and growth.
 </div>
+
 <div align="left">
   - :telescope: My work uses analyses of compelx big data (incl. machine learning) to search for the ultra-rare decay of a kaon (a type of meson). 
 
