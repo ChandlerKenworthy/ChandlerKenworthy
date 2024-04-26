@@ -43,6 +43,8 @@
 
 <div align="left">
   <h2>📔 Statistics</h2>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandlerKenworthy&show_icons=true&theme=radical)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandlerKenworthy&show_icons=true&theme=prussian)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandlerKenworthy)](https://github.com/anuraghazra/github-readme-stats)
 </div>
