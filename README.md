@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="left>
+<div align="left">
   <h2>Projects</h2>
   <h3>Chess Engine</h3>
   <ul>
