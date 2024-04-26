@@ -35,7 +35,7 @@
   <h3>Chess Engine</h3>
   <ul>
     <li><strong>Description:</strong> A chess bot that you can play.</li>
-    <li><strong>Technologies:</strong> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></li>
+    <li><strong>Technologies:</strong> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" /></li>
     <li><strong>Key Features:</strong> Fully working GUI allowing you to play the computer at chess. Warning: the bot is quite good. Move generation and picking the best move is all done without any libraries. This was my first major personal project.</li>
     <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ChessEngine">Click here.</a></li>
   </ul>
