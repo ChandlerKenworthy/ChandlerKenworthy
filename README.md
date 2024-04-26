@@ -12,7 +12,7 @@
 </div>
 
 ### :man_technologist: About Me
-I'm Chandler, a passionate particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.
+I'm Chandler, a particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.
 
 Feel free to explore my projects and reach out — I'm always open to connecting with fellow developers and exploring new opportunities for collaboration and growth.
 </div>
