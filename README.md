@@ -10,8 +10,8 @@
     <a href="mailto:chandlerkenworthy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </div>
 </div>
-
-### :man_technologist: About Me
+<div align="center"> 
+  <h2>:man_technologist: About Me</h2>
 I'm Chandler, a particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.
 
 Feel free to explore my projects and reach out — I'm always open to connecting with fellow developers and exploring new opportunities for collaboration and growth.
@@ -26,6 +26,7 @@ Feel free to explore my projects and reach out — I'm always open to connecting
   
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandler-kenworthy/)
 </div>
+
 <div align="left">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -36,4 +37,15 @@ Feel free to explore my projects and reach out — I'm always open to connecting
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPlusPlus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+<div align="left>
+  <h2>Projects</h2>
+  <h3>Chess Engine</h3>
+  <ul>
+    <li><strong>Description:</strong> Briefly describe the project and its purpose.</li>
+    <li><strong>Technologies:</strong> List the technologies or programming languages utilized in the project.</li>
+    <li><strong>Key Features:</strong> Highlight the main features and functionalities of the project.</li>
+    <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ChessEngine">Click here.</a></li>
+  </ul>
 </div>
