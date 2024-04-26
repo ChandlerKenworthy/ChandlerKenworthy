@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>Chandler's Portfolio</h1>
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/l0Iy1R9uttEN2KCXe/giphy.gif" height="200"/>
 
@@ -10,21 +11,11 @@
     <a href="mailto:chandlerkenworthy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </div>
 </div>
+
 <div align="center"> 
   <h2>:man_technologist: About Me</h2>
-I'm Chandler, a particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.
-
-Feel free to explore my projects and reach out — I'm always open to connecting with fellow developers and exploring new opportunities for collaboration and growth.
-</div>
-
-<div align="left">
-  - :telescope: My work uses analyses of compelx big data (incl. machine learning) to search for the ultra-rare decay of a kaon (a type of meson). 
-
-  - :seedling: Planning to move into software engineering with a focus on machine-learning/AI.
-  
-  - :zap: In my free time I like to challenge myself and program new tools (or just fun) things!
-  
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandler-kenworthy/)
+  <p>I'm Chandler, a particle physicist currently pursuing my PhD at <a href="https://home.cern">CERN</a> on the <a href="https://na62.web.cern.ch">NA62 experiment</a>. I study ultra-rare kaon decays analysing large datasets and contributing to the NA62 software framework, written in C++. While my research focuses on exploring the fundamental nature of matter and the universe, I have developed a strong affinity for software development and engineering throughout my academic journey.</p>
+<p>Feel free to explore my projects and reach out — I'm always open to connecting with fellow developers and exploring new opportunities for collaboration and growth.</p>
 </div>
 
 <div align="left">
