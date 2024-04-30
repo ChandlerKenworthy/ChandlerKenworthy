@@ -30,6 +30,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+<div align="left>
+  <h2>🪴 What I'm Learning</h2>
+  <ul>
+    <li>CUDA: with the aim of making a basic fluid simulation.</li>
+    <li>OpenGL: to render my fluid simulation in 3D.</li>
+  </ul>
+</div>
+
 <div align="left">
   <h2>📁 Projects</h2>
   <h3>Chess Engine</h3>
