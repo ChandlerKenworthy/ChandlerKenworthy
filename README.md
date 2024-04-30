@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="left>
+<div align="left">
   <h2>🪴 What I'm Learning</h2>
   <ul>
     <li>CUDA: with the aim of making a basic fluid simulation.</li>
