@@ -51,6 +51,13 @@
     <li><strong>Key Features:</strong> Fully working GUI allowing you to play the computer at chess. Warning: the bot is quite good. Move generation and picking the best move is all done without any libraries. This was my first major personal project. Also includes a Python API so you can generate legal moves and fetch the board repreentation in Python!</li>
     <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ChessEngine">Click here.</a></li>
   </ul>
+  <h3>Sports Field Tactic Visualiser</h3>
+  <ul>
+    <li><strong>Description:</strong> An interactive web app to draw tactics on a field for team based sports.</li>
+    <li><strong>Technologies:</strong> </li>
+    <li><strong>Key Features:</strong> Web based drag-and-drop GUI including the ability to customise colours, download the field and objects placed as an image. This was a basic react app to showcase some of the React and JavaScript I have been teaching myself. Check out my React Native projects written in JSX as well!</li>
+    <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ultimate-tactics">Click here.</a></li>
+  </ul>
 </div>
 
 <div align="left">
