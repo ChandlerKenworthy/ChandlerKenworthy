@@ -47,14 +47,14 @@
   <h3>Chess Engine</h3>
   <ul>
     <li><strong>Description:</strong> A chess bot that you can play.</li>
-    <li><strong>Technologies:</strong> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" /></li>
+    <li><strong>Technologies:</strong> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" /> (C++, Python)</li>
     <li><strong>Key Features:</strong> Fully working GUI allowing you to play the computer at chess. Warning: the bot is quite good. Move generation and picking the best move is all done without any libraries. This was my first major personal project. Also includes a Python API so you can generate legal moves and fetch the board repreentation in Python!</li>
     <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ChessEngine">Click here.</a></li>
   </ul>
   <h3>Sports Field Tactic Visualiser</h3>
   <ul>
     <li><strong>Description:</strong> An interactive web app to draw tactics on a field for team based sports.</li>
-    <li><strong>Technologies:</strong> </li>
+    <li><strong>Technologies:</strong> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> (JS, React)</li>
     <li><strong>Key Features:</strong> Web based drag-and-drop GUI including the ability to customise colours, download the field and objects placed as an image. This was a basic react app to showcase some of the React and JavaScript I have been teaching myself. Check out my React Native projects written in JSX as well!</li>
     <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ultimate-tactics">Click here.</a></li>
   </ul>
