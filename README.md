@@ -67,7 +67,7 @@
     <li><strong>Description:</strong> A basic e-commerce website for a client.</li>
     <li><strong>Technologies:</strong> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="HTML5" alt="HTML5" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML5" width="40" height="40" /> (HMTL, CSS, Tailwind CSS, JS, WordPress)</li>
     <li><strong>Key Features:</strong> Fully custom WordPress theme from the ground up supporting custom fields and post types.</li>
-    <li><strong>GitHub Repo:</strong> Private repository, sorry!</li>
+    <li><strong>GitHub Repo:</strong> Private repository, sorry! But the website is available <a href="https://beachsidesilver.co.uk">here</a></li>
   </ul>
 </div>
 
