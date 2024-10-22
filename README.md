@@ -51,7 +51,7 @@
   <ul>
     <li><strong>Description:</strong> A chess bot that you can play.</li>
     <li><strong>Technologies:</strong> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" /> (C++, Python)</li>
-    <li><strong>Key Features:</strong> Fully working GUI allowing you to play the computer at chess. Warning: the bot is quite good. Move generation and picking the best move is all done without any libraries. This was my first major personal project. Also includes a Python API so you can generate legal moves and fetch the board repreentation in Python!</li>
+    <li><strong>Key Features:</strong> Fully working GUI allowing you to play the computer at chess. Warning: the bot is quite good. Move generation and picking the best move is all done without any libraries. This was my first major personal project. Also includes a Python API so you can generate legal moves and fetch the board representation in Python!</li>
     <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ChessEngine">Click here.</a></li>
   </ul>
   <h3>Sports Field Tactic Visualiser</h3>
@@ -60,6 +60,14 @@
     <li><strong>Technologies:</strong> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> (JS, React)</li>
     <li><strong>Key Features:</strong> Web based drag-and-drop GUI including the ability to customise colours, download the field and objects placed as an image. This was a basic react app to showcase some of the React and JavaScript I have been teaching myself. Check out my React Native projects written in JSX as well!</li>
     <li><strong>GitHub Repo:</strong> <a href="https://github.com/ChandlerKenworthy/ultimate-tactics">Click here.</a></li>
+  </ul>
+
+  <h3>E-commerce Website</h3>
+  <ul>
+    <li><strong>Description:</strong> A basic e-commerce website for a client.</li>
+    <li><strong>Technologies:</strong> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="HTML5" alt="HTML5" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML5" width="40" height="40" /> (HMTL, CSS, Tailwind CSS, JS, WordPress)</li>
+    <li><strong>Key Features:</strong> Fully custom WordPress theme from the ground up supporting custom fields and post types.</li>
+    <li><strong>GitHub Repo:</strong> Private repository, sorry!</li>
   </ul>
 </div>
 
